@@ -4,7 +4,7 @@ Here, I include the code and files I used to create the dataset, as well as the 
 
 ## 1. Code Notebook
 
-**File:** [CollectingLyrics.ipynb](path/to/CollectingLyrics.ipynb)
+**File:** [CollectingLyrics.ipynb](https://github.com/Rhaam/musicProfanity/blob/main/building_the_dataset/CollectingLyrics.ipynb)
 
 The notebook contains the code to collect lyrics. Note that if the website the lyrics are collected from changes, this code may no longer work the same way.
 
@@ -16,7 +16,7 @@ This file is sourced from Kaggle and contains Billboard Hot 100 songs for each y
 
 ## 3. Final Dataset
 
-**File:** [billboard_top_100_1946_2022_lyrics.csv](path/to/billboard_top_100_1946_2022_lyrics.csv)
+**File:** [billboard_top_100_1946_2022_lyrics.csv](https://github.com/Rhaam/musicProfanity/blob/main/building_the_dataset/billboard_top_100_1946_2022_lyrics.csv)
 
 This CSV file is the final dataset we created, which includes lyrics for Billboard Top 100 songs for each year from 1946 to 2022.
 
