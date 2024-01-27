@@ -26,6 +26,8 @@ Kaggle link: [Billboard_Hot100_Songs_spotify_1946-2022.csv](https://www.kaggle.c
 
 This CSV file is the final dataset we created, which includes lyrics for Billboard Top 100 songs for each year from 1946 to 2022.
 
+This dataset is about 87% complete with the lyrics to 6032 songs.
+
 
 
  
