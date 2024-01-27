@@ -12,8 +12,10 @@ The notebook contains the code to collect lyrics. Note that if the website the l
 
 **File:** [Billboard_Hot100_Songs_spotify_1946-2022.csv](https://www.kaggle.com/datasets/tushar5harma/billboard-hot-100-songs-spotify-data-1946-2022)
 
-Kaggle link: [Billboard_Hot100_Songs_spotify_1946-2022.csv](https://www.kaggle.com/datasets/tushar5harma/billboard-hot-100-songs-spotify-data-1946-2022)
 This file is sourced from Kaggle and contains Billboard Hot 100 songs for each year from 1946 to 2022. The data is scraped from Wikipedia.
+
+Kaggle link: [Billboard_Hot100_Songs_spotify_1946-2022.csv](https://www.kaggle.com/datasets/tushar5harma/billboard-hot-100-songs-spotify-data-1946-2022)
+
 
 ## 3. Final Dataset
 
